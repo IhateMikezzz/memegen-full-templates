@@ -31,7 +31,7 @@ Click the button below to access all meme templates!
 
 If you want to access the full JSON data of meme templates, click the badge below:
 
-[![View Meme Templates JSON](https://img.shields.io/badge/View_Meme_Templates_JSON-brightgreen?style=flat&logo=github)](https://raw.githubusercontent.com/yourusername/your-repository-name/main/meme_templates.json)
+[![View Meme Templates JSON](https://img.shields.io/badge/View_Meme_Templates_JSON-brightgreen?style=flat&logo=github)](https://raw.githubusercontent.com/IhateMikezzz/memegen-temps/refs/heads/main/templates.json)
 
 ---
 
