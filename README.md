@@ -23,7 +23,7 @@ Just replace the ID in the URL to customize the meme template with your own text
 
 Click the button below to access all meme templates!
 
-[View All Meme Templates](https://github.com/yourusername/your-repository-name)  
+[View All Meme Templates](https://raw.githubusercontent.com/IhateMikezzz/memegen-temps/refs/heads/main/templates.json)  
 
 ---
 
